@@ -38,4 +38,3 @@ Slides are accessible in the following [link](https://github.com/RasoulNik/Power
 Please refer to [IEEE Xplore](https://ieeexplore.ieee.org/document/8647510)
 ## Refrence
 Click [here](https://github.com/RasoulNik/PowerMap/blob/master/ref.bib) for getting the bib file.
-updat
