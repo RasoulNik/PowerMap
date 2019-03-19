@@ -3,6 +3,17 @@
 You can use the [editor on GitHub](https://github.com/RasoulNik/RasoulNik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We present a measurement-driven algorithm to map
+the large-scale channel losses observed between a cellular base
+station and any point in its coverage area. The algorithm
+is on-line, meaning that it operates on continuously arriving
+measurements. Its distinguishing features are the use of two
+kernel functions, suitably chosen for the problem at hand, and
+a simple technique to sparsify the dictionary of measurements
+retained in memory. Evaluations in campus and urban settings
+indicate that the proposed algorithm reduces, roughly in half,
+the prediction error of existing single-kernel and multikernel
+algorithms.
 
 ### Markdown
 
