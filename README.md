@@ -32,6 +32,10 @@ result, which has been run with q = 20. This confirms the
 effectiveness of the DC kernel at tracking the map’s average,
 something that without a DC kernel requires a larger value of
 q and therefore higher complexity.
+## Slides
+Slides are accessible in the following [link](https://github.com/RasoulNik/PowerMap/blob/master/GlobeCom18_Rasoul_v4.pdf)
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
