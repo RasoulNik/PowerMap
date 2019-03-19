@@ -34,3 +34,8 @@ something that without a DC kernel requires a larger value of
 q and therefore higher complexity.
 ## Slides
 Slides are accessible in the following [link](https://github.com/RasoulNik/PowerMap/blob/master/GlobeCom18_Rasoul_v4.pdf)
+## Full text
+Please refer to [IEEE Xplore](https://ieeexplore.ieee.org/document/8647510)
+## Refrence
+Click [here](https://github.com/RasoulNik/PowerMap/blob/master/ref.bib) for getting the bib file.
+updat
